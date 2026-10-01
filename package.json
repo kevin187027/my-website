@@ -1,8 +1,7 @@
 {
-  "name": "changxuan-tech",
+  "name": "vite-starter",
   "private": true,
-  "version": "1.0.0",
-  "description": "錩玄科技有限公司 — 智慧農業機械 企業網站",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
